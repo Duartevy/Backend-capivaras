@@ -14,7 +14,9 @@ Este projeto é um sistema de gerenciamento de capivaras para um zoológico. Ele
 
 ### 1. Clone os repositórios: 
   https://github.com/Duartevy/Frontend-capivaras.git
+  
   https://github.com/Duartevy/Backend-capivaras.git
+  
   ou faça download do aqruivo ZIP Frontend-capivaras e Backend-capivaras, depois extraia tudo em uma pasta e abra o projeto no VisualStudioCode ou em a   algum editor de código de sua preferência.
   
 
