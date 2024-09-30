@@ -17,7 +17,7 @@ Este projeto é um sistema de gerenciamento de capivaras para um zoológico. Ele
   
   https://github.com/Duartevy/Backend-capivaras.git
   
-  ou faça download do aqruivo ZIP Frontend-capivaras e Backend-capivaras, depois extraia tudo em uma pasta e abra o projeto no VisualStudioCode ou em a   algum editor de código de sua preferência.
+  ou faça download do aqruivo ZIP Frontend-capivaras e Backend-capivaras, depois extraia tudo em uma pasta e abra o projeto no VisualStudioCode ou em algum editor de código de sua preferência.
   
 
 ### 2. Instale as dependências do backend:
