@@ -37,7 +37,7 @@ Este projeto é um sistema de gerenciamento de capivaras para um zoológico. Ele
   Execute o frontend: `npm run serve`
 
   Front-end rodando em: `http://localhost:5002`
-  API Back-end rodando em: `http://localhost:5001/api/capivaras)`
+  API Back-end rodando em: `http://localhost:5001/api/capivaras`
 
 
 
