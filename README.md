@@ -37,16 +37,15 @@ Este projeto é um sistema de gerenciamento de capivaras para um zoológico. Ele
   API Back-end rodando em `http://localhost:5001/api/capivaras)`
 
 
+
 ### 6. FOTOS DO PROJETO RODANDO: 
 
+![Captura de tela 2024-09-29 231933](https://github.com/user-attachments/assets/507ed293-5df1-4a33-9a49-886c5807ad7b)
 
-(https://github.com/user-attachments/assets/a230a5b5-06ca-42f3-97c5-03c868f03eee)
+![Captura de tela 2024-09-29 232011](https://github.com/user-attachments/assets/bb4c7d7d-e3b5-487e-b195-9b5cc74c5f7a)
 
-(https://github.com/user-attachments/assets/ee1d9ff3-d848-45f0-99b1-99f02e28fcc1)
+![Captura de tela 2024-09-29 232044](https://github.com/user-attachments/assets/301d007d-39ca-4e25-9d51-d9db303eb9ee)
 
-(https://github.com/user-attachments/assets/d77cc854-b634-4de1-9bb6-4bf0d1b99bc0)
+![Captura de tela 2024-09-29 232031](https://github.com/user-attachments/assets/600b45de-b326-4647-a71a-6fefcbeabe51)
 
-(https://github.com/user-attachments/assets/0ec7d885-a6dd-4760-ad9b-2de9d1a878a9)
-
-(https://github.com/user-attachments/assets/cc66fbbb-dfe6-4171-9196-d544a5a2865e)
-
+![Captura de tela 2024-09-30 063935](https://github.com/user-attachments/assets/3a6c46ea-e665-40b3-816e-4dc6efc73dd6)
