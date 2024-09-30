@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/a4e2901b-717b-4b96-ac2b-e7fb04cfa868
 # Capivara Management System
 
 Este projeto é um sistema de gerenciamento de capivaras para um zoológico. Ele permite o cadastro, visualização, edição e exclusão de registros de capivaras.
@@ -49,3 +51,4 @@ Este projeto é um sistema de gerenciamento de capivaras para um zoológico. Ele
 ![Captura de tela 2024-09-29 232031](https://github.com/user-attachments/assets/600b45de-b326-4647-a71a-6fefcbeabe51)
 
 ![Captura de tela 2024-09-30 063935](https://github.com/user-attachments/assets/3a6c46ea-e665-40b3-816e-4dc6efc73dd6)
+
