@@ -41,8 +41,12 @@ Este projeto é um sistema de gerenciamento de capivaras para um zoológico. Ele
 
 
 (https://github.com/user-attachments/assets/a230a5b5-06ca-42f3-97c5-03c868f03eee)
+
 (https://github.com/user-attachments/assets/ee1d9ff3-d848-45f0-99b1-99f02e28fcc1)
+
 (https://github.com/user-attachments/assets/d77cc854-b634-4de1-9bb6-4bf0d1b99bc0)
+
 (https://github.com/user-attachments/assets/0ec7d885-a6dd-4760-ad9b-2de9d1a878a9)
+
 (https://github.com/user-attachments/assets/cc66fbbb-dfe6-4171-9196-d544a5a2865e)
 
