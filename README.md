@@ -14,7 +14,7 @@ Este projeto é um sistema de gerenciamento de capivaras para um zoológico. Ele
 
 ### 1. Clone o repositório: 
   git clone https://github.com/SEU_USUARIO/capivara-management-system.git
-  ou faça download do aqruivo ZIP Back-end-capivaras, depois extraia tudo em uma pasta e abra o projeto no VisualStudioCode ou em algum editor de código de sua preferência.
+  ou faça download do aqruivo ZIP Backend-capivaras, depois extraia tudo em uma pasta e abra o projeto no VisualStudioCode ou em algum editor de código de sua preferência.
   
 
 ### 2. Instale as dependências do backend:
