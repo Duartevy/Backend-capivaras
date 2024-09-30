@@ -1,4 +1,3 @@
-
 # Capivara Management System
 
 Este projeto é um sistema de gerenciamento de capivaras para um zoológico. Ele permite o cadastro, visualização, edição e exclusão de registros de capivaras.
@@ -13,9 +12,10 @@ Este projeto é um sistema de gerenciamento de capivaras para um zoológico. Ele
 
 ## Como Executar o Projeto:
 
-### 1. Clone o repositório: 
-  git clone https://github.com/SEU_USUARIO/capivara-management-system.git
-  ou faça download do aqruivo ZIP Backend-capivaras, depois extraia tudo em uma pasta e abra o projeto no VisualStudioCode ou em algum editor de código de sua preferência.
+### 1. Clone os repositórios: 
+  https://github.com/Duartevy/Frontend-capivaras.git
+  https://github.com/Duartevy/Backend-capivaras.git
+  ou faça download do aqruivo ZIP Frontend-capivaras e Backend-capivaras, depois extraia tudo em uma pasta e abra o projeto no VisualStudioCode ou em a   algum editor de código de sua preferência.
   
 
 ### 2. Instale as dependências do backend:
@@ -34,8 +34,8 @@ Este projeto é um sistema de gerenciamento de capivaras para um zoológico. Ele
   Execute o backend: `nodemon server.js`
   Execute o frontend: `npm run serve`
 
-  Front-end rodando em `http://localhost:5002`
-  API Back-end rodando em `http://localhost:5001/api/capivaras)`
+  Front-end rodando em: `http://localhost:5002`
+  API Back-end rodando em: `http://localhost:5001/api/capivaras)`
 
 
 
